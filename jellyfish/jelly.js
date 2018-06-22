@@ -30,7 +30,7 @@ var fragment = require('./shaders/fragment').shader;
 var viewportWidth = 750;
 var viewportHeight = 750;
 
-var baseURL = 'jellyfish/';
+var baseURL = '';
 console.log("----------------" + baseURL);
 var vertexPositionBuffer = {};
 var vertexNormalBuffer = {};

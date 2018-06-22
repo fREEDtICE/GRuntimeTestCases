@@ -23,7 +23,7 @@ var assets = {
 };
 
 var getBaseURL = function () {
-    return "fishie/";
+    return "";
 }
 
 function createFish(max) {

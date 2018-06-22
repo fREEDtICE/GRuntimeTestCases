@@ -334,7 +334,7 @@ var assets = {
 };
 
 var getBaseURL = function getBaseURL() {
-    return "fishie/";
+    return "";
 };
 
 function createFish(max) {
